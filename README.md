@@ -129,7 +129,7 @@ Survey-App (Monorepo)
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/USERNAME/Survey-App.git
+git clone https://github.com/MalickMuzamil/Survey-App.git
 
 cd Survey-App
 
@@ -149,6 +149,8 @@ npm install
 
 ng serve
 
+---
+
 🌍 Environment Variables
 
 Create .env in Backend:
@@ -165,6 +167,7 @@ DB_NAME=survey_db
 
 JWT_SECRET=your_secret_key
 
+---
 
 📌 Key Highlights
 
@@ -178,9 +181,15 @@ JWT_SECRET=your_secret_key
 
 ✅ Real-world role-based access control
 
+---
+
+
 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
 
 👨‍💻 Author
 
