@@ -1,0 +1,44 @@
+.auth-container {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: clamp(10px, 3vw, 35px);
+}
+
+.auth-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(18px);
+  border-radius: 20px;
+  padding: clamp(26px, 2vw, 40px);
+  width: clamp(340px, 40vw, 560px);
+  animation-duration: .8s;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+/* Logo */
+.logo-img {
+  width: clamp(55px, 6vw, 70px);
+  margin-bottom: 14px;
+}
+
+/* Required field asterisk */
+.required::after {
+  content: " *";
+  color: red;
+  font-weight: 600;
+}
+
+/* Mobile */
+@media(max-width: 480px) {
+  .auth-card {
+    padding: 18px;
+    width: 94%;
+  }
+
+  .row > div {
+    width: 100%;
+  }
+}

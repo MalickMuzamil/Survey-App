@@ -1,0 +1,31 @@
+<div class="dashboard-container">
+
+  <app-dashboard-header [user]="user" (logout)="logout()"></app-dashboard-header>
+
+  <app-survey-header [userRole]="user.role" (createSurvey)="openCreateSurveyModal()"></app-survey-header>
+
+  <div class="survey-grid mb-3">
+    <app-survey-card *ngFor="let survey of surveys"
+      [survey]="survey"
+      [isSubmitted]="isSubmitted(survey.survey._id)"
+      (fillSurvey)="openSurveyModal(survey)">
+    </app-survey-card>
+  </div>
+
+  <!-- Team Results Table -->
+  <app-team-results-table *ngIf="['CEO','CTO','TeamLead','PM','Developer','Intern','Internee'].includes(user.role)"
+    [visibleTeamMatrixRows]="visibleTeamMatrixRows"
+    [uniqueSurveys]="uniqueSurveys"
+    (deleteResponse)="confirmAndDelete($event.responseId, $event.roleId, $event.name, $event.userId)">
+  </app-team-results-table>
+
+</div>
+
+
+<app-modal [questions]="selectedSurveyQuestions" (submitted)="handleSurveySubmit($event)">
+</app-modal>
+
+<app-survey-modal (surveyCreated)="handleCreateSurvey($event)"></app-survey-modal>
+
+<app-team-results *ngIf="showTeamResults" [results]="selectedSurveyQuestions" (close)="closeTeamResults()">
+</app-team-results>
