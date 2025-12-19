@@ -1,0 +1,2 @@
+{"level":"error","message":"400 - Error: Cannot destructure property 'first_name' of 'req.body' as it is undefined.","timestamp":"2025-11-05 17:07:47"}
+{"level":"error","message":"400 - Error: Invalid password","timestamp":"2025-11-05 18:45:49"}

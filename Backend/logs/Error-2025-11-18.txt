@@ -1,0 +1,32 @@
+{"level":"error","message":"400 - Error: Question is required","timestamp":"2025-11-18 07:43:08"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 08:41:25"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 08:50:06"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 08:51:20"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 08:52:19"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 08:54:38"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 09:01:29"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 10:05:27"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 10:05:32"}
+{"level":"error","message":"400 - Error: Invalid password","timestamp":"2025-11-18 10:29:26"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 10:29:38"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 10:29:47"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 10:29:53"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:33:03"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:34:27"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:35:40"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:42:31"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:45:30"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:47:53"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:48:19"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:51:43"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:52:41"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:52:58"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:53:30"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:54:26"}
+{"level":"error","message":"400 - Error: No answers provided","timestamp":"2025-11-18 10:54:54"}
+{"level":"error","message":"400 - Error: Invalid password","timestamp":"2025-11-18 15:16:32"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 16:01:47"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 16:01:55"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 18:11:25"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 18:27:39"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-18 18:58:19"}

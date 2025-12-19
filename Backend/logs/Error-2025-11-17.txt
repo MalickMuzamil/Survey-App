@@ -1,0 +1,7 @@
+{"level":"error","message":"400 - Error: Invalid role name","timestamp":"2025-11-17 19:02:16"}
+{"level":"error","message":"400 - Error: Invalid role name","timestamp":"2025-11-17 19:13:24"}
+{"level":"error","message":"400 - Error: Invalid role name","timestamp":"2025-11-17 19:16:31"}
+{"level":"error","message":"400 - Error: Cannot destructure property 'email' of 'req.body' as it is undefined.","timestamp":"2025-11-17 19:22:01"}
+{"level":"error","message":"400 - Error: Cannot destructure property 'email' of 'req.body' as it is undefined.","timestamp":"2025-11-17 19:22:53"}
+{"level":"error","message":"400 - Error: Invalid password","timestamp":"2025-11-17 19:23:19"}
+{"level":"error","message":"400 - Error: Invalid password","timestamp":"2025-11-17 21:46:37"}

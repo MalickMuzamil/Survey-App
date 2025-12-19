@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\T7-1\\Desktop\\Survey App\\Backend\\logs\\.141c891b4015a91f459340a84a76306cdfcda520-audit.json",
+    "files": [
+        {
+            "date": 1763395977187,
+            "name": "C:\\Users\\T7-1\\Desktop\\Survey App\\Backend\\logs\\Error-2025-11-17.txt",
+            "hash": "3c9ddf96ae5c20bd3999d2d2581ed821a8c0113dd9eef9d49d47f6d1e228966f"
+        },
+        {
+            "date": 1763430667258,
+            "name": "C:\\Users\\T7-1\\Desktop\\Survey App\\Backend\\logs\\Error-2025-11-18.txt",
+            "hash": "97acd2f170147af4005770d4bcd4e7d748b0edfa3d841f9824a87522edc48d6c"
+        },
+        {
+            "date": 1763559892953,
+            "name": "C:\\Users\\T7-1\\Desktop\\Survey App\\Backend\\logs\\Error-2025-11-19.txt",
+            "hash": "13d3c13607737d9a8454e0cdc15969fbba87260f797e3d811c3c1dd44a5771be"
+        }
+    ],
+    "hashType": "sha256"
+}

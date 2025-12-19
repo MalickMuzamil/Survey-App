@@ -1,0 +1,2 @@
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-19 11:15:34"}
+{"level":"error","message":"400 - Error: User not found","timestamp":"2025-11-19 12:14:10"}

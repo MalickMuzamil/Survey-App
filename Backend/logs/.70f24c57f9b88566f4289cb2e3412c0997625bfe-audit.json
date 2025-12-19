@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\T7-1\\Desktop\\Survey App\\logs\\.70f24c57f9b88566f4289cb2e3412c0997625bfe-audit.json",
+    "files": [
+        {
+            "date": 1763386224466,
+            "name": "C:\\Users\\T7-1\\Desktop\\Survey App\\logs\\Error-2025-11-17.txt",
+            "hash": "e66e51284a6d484778fdb09d4971aa3698fb7be32c016f6f586658cdf9cd8fe4"
+        }
+    ],
+    "hashType": "sha256"
+}

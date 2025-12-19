@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\T7-1\\Desktop\\Team7\\Team7Desk\\logs\\.154c21326f75f16ef237eeff5298f2b0fb37316e-audit.json",
+    "files": [
+        {
+            "date": 1762351037882,
+            "name": "C:\\Users\\T7-1\\Desktop\\Team7\\Team7Desk\\logs\\Error-2025-11-05.txt",
+            "hash": "337cccdd2e617f2134b03259a6cf821434f6e98a38b68bb77806dd31362616a0"
+        },
+        {
+            "date": 1762416107438,
+            "name": "C:\\Users\\T7-1\\Desktop\\Team7\\Team7Desk\\logs\\Error-2025-11-06.txt",
+            "hash": "d18c8f8aff6be0e6accd2edcdeb717f298291b5ea115e45acf2bd2098e5718f4"
+        }
+    ],
+    "hashType": "sha256"
+}
